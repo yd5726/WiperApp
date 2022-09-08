@@ -1,2 +1,5 @@
 # WiperApp
-아두이노, 블루투스 통신, 안드로이드
+this is senier project.
+topic : IoT Wiper App
+use : Arduino, Bluetooth , Android
+last update : 2019
